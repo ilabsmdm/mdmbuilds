@@ -1,3 +1,4 @@
+build: #84
 mdm-index-service: development
 mdm-elasticsearch: development
 mdm-search-rest: development
