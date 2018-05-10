@@ -1,5 +1,5 @@
-build: #88
+build: #89
 mdm-index-service: development
 mdm-elasticsearch: development
 mdm-search-rest: development
-1.1_7005927: 
+1.1_7008658: 
