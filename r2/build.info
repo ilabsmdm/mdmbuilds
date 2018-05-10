@@ -1,5 +1,7 @@
-build: #91
+build: #92
 mdm-index-service: development
 mdm-elasticsearch: development
 mdm-search-rest: development
-1.1_7009156: 
+mdm-dq-rule-integration-service: 1.1_7009173
+ui-search-match-config: 1.1_7009173
+mdm-dq-integration-api: 1.1_7009173
