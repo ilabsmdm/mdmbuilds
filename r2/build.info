@@ -1,7 +1,4 @@
-build: #98
-mdm-index-service: development
-mdm-elasticsearch: development
-mdm-search-rest: development
-mdm-dq-rule-integration-service: 1.1_7011500
-ui-search-match-config: 1.1_7011500
-mdm-dq-integration-api: 1.1_7011500
+build: #99
+mdm-dq-rule-integration-service: 1.1_7011856
+ui-search-match-config: 1.1_7011856
+mdm-dq-integration-api: 1.1_7011856
